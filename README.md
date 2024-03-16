@@ -1,2 +1,2 @@
-# Firmware-Projects
-This is my first project
+# Firmware-Project
+This project is developed to create an Interface for LM35 Temperature sensor, Where if the temperature falls below 30°C than the LED blinks for every 250 milliseconds and if the temperature rises above 30°C than the LED blinks for every 500 milliseconds.
